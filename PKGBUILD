@@ -5,7 +5,7 @@
 # * Stephan Wienczny <stephan@wienczny.de>
 
 pkgname=dbeaver-ce
-pkgver=6.3.5
+pkgver=7.0.0
 pkgrel=1
 pkgdesc="An universal database tool for developers and database administrators. Community Edition"
 arch=('i686' 'x86_64')
@@ -19,8 +19,8 @@ source_i686=("https://dbeaver.io/files/${pkgver}/dbeaver-ce-${pkgver}-linux.gtk.
              "https://dbeaver.io/files/${pkgver}/checksum/dbeaver-ce-${pkgver}-linux.gtk.x86.tar.gz.sha256")
 source_x86_64=("https://dbeaver.io/files/${pkgver}/dbeaver-ce-${pkgver}-linux.gtk.x86_64.tar.gz"
              "https://dbeaver.io/files/${pkgver}/checksum/dbeaver-ce-${pkgver}-linux.gtk.x86_64.tar.gz.sha256")
-sha256sums=('f1dd2cd13732d00a36d95218d59423689112b343b2212744f6c7b6893381ce78'
-            '0c2a75baa39459fa56159e982d9f28c966837561bd52dffd24bac87b8d65555f')
+sha256sums=('SKIP'
+            'SKIP')
 sha256sums_i686=('SKIP' 'SKIP')
 sha256sums_x86_64=('SKIP' 'SKIP')
 
